@@ -18,7 +18,7 @@
   {
     scanf("%f",&y[i]);
   }
-   printf("\n Enter the unknown item;");
+   printf("\n Enter the unknown item");
    scanf("%f",&x);
    h=((x-x0)/n);
    u=((x-x0)/h);
@@ -49,3 +49,4 @@
     else
     return(s*factorial(s-1));
    }
+
